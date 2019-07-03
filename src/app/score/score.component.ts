@@ -8,7 +8,7 @@ import { ScoreService } from "../score.service";
 })
 export class ScoreComponent implements OnInit {
 
-  public scoreDetail = [];
+  public scoreDetail : any;
 
   constructor(private _scoreService : ScoreService) { }
 
