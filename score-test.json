@@ -1,0 +1,21 @@
+{   
+    "title": "Annual Basketball Encounter",
+    "teams": [
+        {
+            "id": "1",
+            "team-name" : "St.Aloysius,College",
+            "score" : "00",
+            "try" : "0",
+            "penalty" : "0"
+
+        },
+        {
+            "id": "2",
+            "team-name" : "Richmond College",
+            "score" : "00",
+            "try" : "0",
+            "penalty" : "0"
+
+        }
+    ]
+}
